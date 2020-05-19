@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{107:function(n){n.exports=JSON.parse('{"docsSidebars":{"docs":[{"type":"category","label":"\u547d\u4ee4","items":[{"type":"link","label":"Find","href":"/linux-notes/docs/commands/find"}]}]},"permalinkToSidebar":{"/linux-notes/docs/commands/find":"docs"}}')}}]);
